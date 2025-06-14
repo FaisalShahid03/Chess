@@ -1,5 +1,5 @@
 # CHESS  
-*   Design and Analysis of Algorithms project*
+*   *Design and Analysis of Algorithms project*
 
 ## Table of Contents
 - [Overview](#overview)
