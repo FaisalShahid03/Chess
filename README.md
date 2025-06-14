@@ -11,8 +11,6 @@
 - [Algorithms](#algorithms)
 - [Results](#results)
 - [Future Enhancements](#future-enhancements)
-- [Contributors](#contributors)
-
 ---
 
 ## Overview
