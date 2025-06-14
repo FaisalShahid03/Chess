@@ -1,5 +1,5 @@
 # CHESS  
-*Data Structures and Algorithms Final Project*
+*   Design and Analysis of Algorithms project*
 
 ## Table of Contents
 - [Overview](#overview)
@@ -113,11 +113,4 @@ Follow these steps to set up the project on your local machine:
 - Add timer-based gameplay for competitive modes.  
 
 ---
-
-# Contributors  
-
-- **Khadija Saeed     (2023-CS-74)** 
-- **Hira Sohail     (2023-CS-76)**   
-- **Ufaq Hafeez     (2023-CS-75)**
-- **Ayesha Wasim     (2023-CS-66)** 
  
